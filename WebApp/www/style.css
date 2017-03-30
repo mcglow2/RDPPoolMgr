@@ -1,0 +1,12 @@
+#main-wrap{
+    margin-top: 50px;
+}
+
+
+.table {
+    vertical-align: top;
+}
+
+.table td:last-child{
+    text-align: right;
+}
